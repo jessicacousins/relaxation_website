@@ -1,4 +1,4 @@
-# MindfulSpace Pro
+# MindfulSpace Pro Website
 
 A professional-grade relaxation and wellness platform designed for healthcare environments. This web application provides evidence-based therapeutic experiences with customizable breathing exercises, particle animations, and accessibility features.
 
